@@ -1,0 +1,26 @@
+.main-header {
+  color: crimson;
+}
+
+.main-footer {
+  color: blue;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+.main-content {
+  display: grid;
+}
+.main-content > p {
+  color: gold;
+}
+.main-content:hover {
+  background-color: aqua;
+}
+.main-content:hover > p {
+  color: rgb(247, 12, 12);
+}
+
+/*# sourceMappingURL=aboutme2.css.map */

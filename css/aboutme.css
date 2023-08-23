@@ -1,0 +1,20 @@
+.main-header {
+  color: crimson;
+}
+
+.main-footer {
+  color: blue;
+}
+
+body {
+  background-color: rgb(40, 33, 46);
+}
+
+.main-content {
+  display: grid;
+}
+.main-content > p {
+  color: gold;
+}
+
+/*# sourceMappingURL=aboutme.css.map */
